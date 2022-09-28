@@ -1,0 +1,18 @@
+{
+  "name": "11scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Check Your Credit ◄ Get Your FREE Credit Score Check Your Credit, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "Check Your Credit",
+    "how good credit score",
+    "what credit score needed for mortgage",
+    "credit score vs mortgage rate",
+    "credit score or cibil score"
+  ],
+  "repository": "https://github.com/truelestor/11scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
